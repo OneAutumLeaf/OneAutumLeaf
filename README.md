@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
-<h3 align="center">A passionate full stack developer and coding enthusiast @ Indian Institute of Information Technology</h3>
+<h3 align="center">A passionate full stack developer and coding enthusiast @ Indian Institute of Information Technology Sonepat</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OneAutumLeaf&label=Profile%20views&color=0e75b6&style=flat" alt="ayush12" /> </p>
 
