@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Web developement, DSA**
 
-- 👨‍💻 All of my projects are available at my portfolio ([https://oneautumleafport.netlify.app/])
+- 👨‍💻 All of my projects are available at my [Portfolio](https://oneautumleafport.netlify.app/)
 
 - 💬 Ask me about **MERN Stack, DSA, CP**
 
 - 📫 How to reach me **ayushmail2u2@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1yhVhi90GCZKgevlRbIBSMNurFEvg0_f8/view?usp=sharing](https://drive.google.com/file/d/1lUlMFkDBJzW82UoeWZb-l4rcr8x3L0hS/view?usp=sharing)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1lUlMFkDBJzW82UoeWZb-l4rcr8x3L0hS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
