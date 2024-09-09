@@ -1,3 +1,5 @@
+[![An image of @s_ayush007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/s_ayush007)](https://holopin.io/@s_ayush007)
+
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
 <h3 align="center">A passionate full stack developer and coding enthusiast @ Indian Institute of Information Technology Sonepat</h3>
 
