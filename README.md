@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://oneautumleafport.netlify.app/)
 
-- 💬 Ask me about **MERN Stack, DSA, CP**
+- 💬 Ask me about **Full Stack, DSA, CP**
 
 - 📫 How to reach me **ayushmail2u2@gmail.com**
 
